@@ -1,0 +1,80 @@
+.view-page-container {
+    width: 50%;
+    margin: 10px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-form div {
+    margin-bottom: 10px;
+}
+
+.user-form strong {
+    display: inline-block;
+    width: 100px;
+    font-weight: bold;
+}
+
+.user-form input[type="text"],
+.user-form input[type="email"] {
+    width: 60%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.user-form select {
+    width: 60%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.user-form button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.user-form span {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    color: #333;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.user-form button[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+}
+
+.user-form button[type="button"] {
+    background-color: #f44336;
+    color: white;
+}
+
+.user-form button.update-button {
+    background-color: #2196f3;
+    color: white;
+}
+
+.update-button:hover:disabled {
+    cursor: not-allowed;
+}
+
+.user-form button.delete-button {
+    background-color: #f44336;
+    color: white;
+}

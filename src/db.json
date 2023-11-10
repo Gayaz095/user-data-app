@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "a",
+      "email": "a@gmail.com",
+      "phone": "0000001",
+      "state": "Maharastra",
+      "gender": "Male",
+      "sitename": "google",
+      "id": 5
+    },
+    {
+      "username": "b",
+      "email": "b@gmail.com",
+      "phone": "0000002",
+      "state": "Gujarat",
+      "gender": "Female",
+      "sitename": "whatsapp",
+      "id": 8
+    },
+    {
+      "username": "c",
+      "email": "c@gmail.com",
+      "phone": "0000003",
+      "state": "Karnataka",
+      "gender": "Female",
+      "sitename": "linkden",
+      "id": 9
+    },
+    {
+      "username": "d",
+      "email": "d@gmail.com",
+      "phone": "0000004",
+      "state": "Maharastra",
+      "gender": "Male",
+      "sitename": "facebook",
+      "id": 10
+    },
+    {
+      "username": "e",
+      "email": "e@gmail.com",
+      "phone": "0000005",
+      "state": "Maharastra",
+      "gender": "Male",
+      "sitename": "facebook",
+      "id": 11
+    }
+  ]
+}
